@@ -47,7 +47,7 @@ header {
   text-align: center;
 }
 
-.big-pic {
+#big-pic {
   background-image: url("../images/img-mission-background.jpg");
   height: 700px;
   background-size: cover;
@@ -64,7 +64,7 @@ header {
 }
 /*gallery*/
 
-.product-section {
+#product-section {
   margin: 5% 7% 3% 7%;
 }
 
@@ -88,7 +88,7 @@ header {
 
 /*locations*/
 
-.location-container {
+#location-container {
   background-image: url(../images/img-locations-background.jpg);
   background-size: cover;
   height: 500px;
